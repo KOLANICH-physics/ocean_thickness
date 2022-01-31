@@ -1,0 +1,19 @@
+[submodule "cmake/Boilerplate"]
+	path = cmake/Boilerplate
+	url = https://github.com/KOLANICH-libs/Boilerplate.cmake
+[submodule "thirdParty/tdigest"]
+	path = thirdParty/tdigest/tdigest2
+	url = https://github.com/derrickburns/tdigest
+[submodule "thirdParty/implot/implot"]
+	path = thirdParty/implot/implot
+	url = https://github.com/epezent/implot
+[submodule "thirdParty/p2/p2"]
+	path = thirdParty/p2/p2
+	url = https://github.com/absmall/p2
+[submodule "thirdParty/ddsketch/ddsketch"]
+	path = thirdParty/ddsketch/ddsketch
+	url = https://github.com/tudor1805/sketches-cpp
+[submodule "thirdParty/ImGuiFileDialog/ImGuiFileDialog"]
+	path = thirdParty/ImGuiFileDialog/ImGuiFileDialog
+	url = https://github.com/aiekick/ImGuiFileDialog
+	branch = Lib_Only

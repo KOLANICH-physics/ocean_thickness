@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+/build
+*.dll
+*.so
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+*.srctrldb
+*.srctrlbm
+*.srctrlprj
